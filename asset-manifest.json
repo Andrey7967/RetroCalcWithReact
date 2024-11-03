@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RetroCalcWithReact/static/css/main.1f0a9f3d.css",
+    "main.js": "/RetroCalcWithReact/static/js/main.6b7b4565.js",
+    "static/media/conthrax-sb.otf": "/RetroCalcWithReact/static/media/conthrax-sb.787c73c4164cc642bfd1.otf",
+    "static/media/Segment7Standard.otf": "/RetroCalcWithReact/static/media/Segment7Standard.fd88e4c6bbf8c3867000.otf",
+    "static/media/click.mp3": "/RetroCalcWithReact/static/media/click.b592429711708322cbc5.mp3",
+    "index.html": "/RetroCalcWithReact/index.html",
+    "main.1f0a9f3d.css.map": "/RetroCalcWithReact/static/css/main.1f0a9f3d.css.map",
+    "main.6b7b4565.js.map": "/RetroCalcWithReact/static/js/main.6b7b4565.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f0a9f3d.css",
+    "static/js/main.6b7b4565.js"
+  ]
+}
